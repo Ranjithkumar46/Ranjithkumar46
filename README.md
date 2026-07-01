@@ -1,101 +1,138 @@
 <div align="center">
 
-# ⚡ JARVIS INITIALIZING...
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:00C9FF,100:92FE9D&height=260&section=header&text=V.%20Ranjith%20Kumar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20Flutter%20Developer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=👋+WELCOME+TO+MY+GITHUB;V.+RANJITH+KUMAR;FULL+STACK+DEVELOPER;FLUTTER+DEVELOPER;SPRING+BOOT+DEVELOPER;AI+%7C+IOT+%7C+SAAS+ARCHITECT;BUILDING+THE+FUTURE+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=900&color=00E5FF&lines=⚡+JARVIS+ONLINE;🚀+WELCOME+TO+MY+GITHUB;💻+FULL+STACK+DEVELOPER;📱+FLUTTER+DEVELOPER;☕+SPRING+BOOT+DEVELOPER;🤖+AI+%7C+IOT+ENGINEER;🌍+BUILDING+THE+FUTURE"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=RANJITH%20KUMAR&fontAlign=50&fontAlignY=40&fontSize=55&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling&fontColor=ffffff"/>
+<p>
+
+<a href="https://github.com/Ranjithkumar46">
+<img src="https://img.shields.io/github/followers/Ranjithkumar46?style=for-the-badge&logo=github&color=00C2FF"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Ranjithkumar46&style=for-the-badge&color=0e75b6"/>
+
+<a href="https://github.com/Ranjithkumar46">
+<img src="https://img.shields.io/github/stars/Ranjithkumar46?style=for-the-badge&color=yellow"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# ⚡ ABOUT ME
+# ⚡ SYSTEM PROFILE
 
 ```yaml
 Name        : V. Ranjith Kumar
 Role        : Software Engineer
-Location    : India
-Speciality  : Full Stack Development
-Frontend    : Flutter
-Backend     : Spring Boot
-Database    : PostgreSQL | MySQL | Supabase
-Cloud       : Firebase | Supabase
-Skills      : AI • IoT • SaaS • REST API • Mobile Apps
-Mission     : Build products that impact millions
+Country     : India
+Focus        :
+   - Full Stack Development
+   - Flutter
+   - Spring Boot
+   - AI
+   - IoT
+   - SaaS Architecture
+
+Mission     : Build scalable products that impact millions.
+Status      : Learning • Building • Growing
 ```
 
 ---
 
-# 🌍 CONNECT
+# 🚀 ABOUT ME
+
+💻 Full Stack Developer
+
+📱 Flutter Developer
+
+☕ Spring Boot Developer
+
+🌐 REST API Developer
+
+🤖 AI Enthusiast
+
+📡 IoT Engineer
+
+☁️ SaaS Application Developer
+
+⚙️ Always learning new technologies
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
 <a href="https://github.com/Ranjithkumar46">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://linkedin.com/in/ranjith-kumar-a563aa270">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://ranjithkumar46.github.io">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
 <a href="mailto:ranjithkumar0574@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# ⚙️ TECH STACK
+# 💻 TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,hibernate,postgres,mysql,supabase,firebase,nodejs,react,html,css,js,git,github,docker,linux,postman,vscode,androidstudio,arduino,raspberrypi&perline=8"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,hibernate,postgres,mysql,supabase,firebase,react,nodejs,html,css,js,git,github,docker,linux,postman,vscode,androidstudio,arduino,raspberrypi&perline=8"/>
 
 </p>
 
 ---
 
-# 🚀 CURRENT PROJECTS
+# 🚀 FEATURED PROJECTS
 
-### 🍽 Restaurant SaaS Platform
+## 🍽 Restaurant SaaS Platform
 
-✅ Multi Tenant Architecture
+✔ Multi Tenant Architecture
 
-✅ QR Ordering
+✔ Flutter Mobile Application
 
-✅ Flutter
+✔ Spring Boot Backend
 
-✅ Spring Boot
+✔ QR Menu Ordering
 
-✅ Subscription System
+✔ JWT Authentication
 
-✅ JWT Authentication
+✔ OIDC Login
 
----
+✔ Subscription Management
 
-### 💳 Per Card
-
-✔ NFC Digital Card
-
-✔ QR Sharing
-
-✔ Business Profile
-
-✔ Portfolio
-
-✔ Premium Membership
+✔ Payment Integration
 
 ---
 
-### 🤖 AI + IoT
+## 💳 Per Card Digital Identity Platform
 
-✔ Smart Devices
+✔ NFC Business Card
+
+✔ QR Contact Sharing
+
+✔ Portfolio Website
+
+✔ Premium Features
+
+✔ Analytics Dashboard
+
+---
+
+## 🤖 AI & IoT
 
 ✔ Raspberry Pi
 
@@ -103,23 +140,25 @@ Mission     : Build products that impact millions
 
 ✔ Automation
 
-✔ AI Integration
+✔ AI Applications
+
+✔ Embedded Systems
 
 ---
 
-# ⚡ GITHUB STATS
+# ⚡ GITHUB DASHBOARD
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ranjithkumar46&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ranjithkumar46&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithkumar46&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithkumar46&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 STREAK
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
 
@@ -149,24 +188,10 @@ Mission     : Build products that impact millions
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-🥇 Flutter Developer
-
-🥇 Spring Boot Developer
-
-🥇 IoT Engineer
-
-🥇 AI Enthusiast
-
-🥇 SaaS Architect
-
----
-
-# 💻 TERMINAL
+# ⚡ JARVIS TERMINAL
 
 ```bash
-> Booting JARVIS...
+> boot system
 
 Loading Flutter.............OK
 
@@ -174,18 +199,22 @@ Loading Spring Boot.........OK
 
 Loading PostgreSQL..........OK
 
-Loading AI.................OK
+Loading Supabase............OK
 
-Loading IoT................OK
+Loading AI..................OK
 
-Loading SaaS...............OK
+Loading IoT.................OK
 
-Mission Ready ✔
+Connecting GitHub...........OK
+
+Mission Status..............ACTIVE
+
+System Ready ✔
 ```
 
 ---
 
-# 💡 PHILOSOPHY
+# 💡 DEVELOPER PHILOSOPHY
 
 ```cpp
 while(alive){
@@ -194,9 +223,9 @@ while(alive){
 
     Build();
 
-    Improve();
+    Fail();
 
-    Inspire();
+    Improve();
 
     Repeat();
 
@@ -205,44 +234,30 @@ while(alive){
 
 ---
 
-# ☕ DAILY ROUTINE
+# 🎯 CURRENT GOALS
 
-```text
-☕ Coffee
+✅ Build scalable SaaS products
 
-💻 Code
+✅ Master AI integrations
 
-📱 Flutter
+✅ Create innovative Flutter apps
 
-☁ Spring Boot
+✅ Explore cloud-native architectures
 
-🚀 Deploy
-
-😴 Sleep
-
-Repeat
-```
+✅ Contribute to open source
 
 ---
 
-# 👀 VISITORS
+# 🌟 QUOTE
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ranjithkumar46&style=for-the-badge&color=blue"/>
-
-</p>
+> **"Dream Big. Build Bigger. Let Your Code Tell Your Story."**
 
 ---
 
 <div align="center">
 
-# ⚡ "Sometimes you have to run before you can walk."
+### ⭐ Thanks for visiting my profile ⭐
 
-### — Tony Stark
-
-⭐ Thanks for visiting my profile ⭐
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,25:00C9FF,50:2C5364,75:203A43,100:0F2027&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
